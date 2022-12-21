@@ -12,7 +12,7 @@
     line-height: 53px;
 margin-top: 20px;
     color: #644200;
-    margin-left: 250px;
+    margin-left: 310px;
 }
 
 .lastGamesButton{
@@ -28,6 +28,7 @@ margin-top: 20px;
     font-weight: 400;
     font-size: 20px;
     line-height: 30px;
+    margin-top: 20px;
     margin-left: 700px;
     color: #FFE897;
 
@@ -38,7 +39,11 @@ margin-top: 20px;
     background-repeat: no-repeat;
     width: 471px;
     height: 106px;
-    margin-left: 215px;
+    margin-left: 275px;
+}
+
+.user{
+    display: inline-flex;
 }
 
 .bookPicture{
@@ -46,17 +51,18 @@ margin-top: 20px;
     background-repeat: no-repeat;
     width: 471px;
     height: 318px;
-margin-left: 220px;
+margin-left: 280px;
 }
 
-.user{
-    display: flex;
-}
+/*.user{*/
+/*    display: flex;*/
+/*}*/
 .avatar{
     background: url("/src/img/image 1.png");
     background-repeat: no-repeat;
     width: 115px;
     height: 144px;
+    margin-right: 20px;
 }
 textarea{
     font-family: 'Oswald', sans-serif;

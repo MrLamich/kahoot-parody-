@@ -12,7 +12,7 @@ function UserRoom() {
                 <text className="roomNumber">Номер комнаты</text>
                 <input className="room"/>
             </div>
-            <Link to="/main">
+            <Link to="/quiz">
                 <button className="arrowButton2">
                     <p className="arrow"/>
                 </button>

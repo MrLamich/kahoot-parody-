@@ -6,7 +6,11 @@ body{
     align-items: center;
 }
 
-h1{
+input{
+    font-size: 25px;
+}
+
+.enterSystem{
     background: url("/src/img/image 23.png");
     width: 516px;
     height: 321px;

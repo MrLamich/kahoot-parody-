@@ -6,7 +6,7 @@ function Registration() {
   return (
     <div className="Registration">
         <div className="paper">
-          <h1>ВОЙТИ В СИСТЕМУ</h1>
+          <h1 className='enterSystem'>ВОЙТИ В СИСТЕМУ</h1>
         </div>
       <div>
         <text className="textLogin">Логин</text>
